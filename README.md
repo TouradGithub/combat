@@ -1,7 +1,7 @@
 # installation
 
  create database named combat
- insert the command sql in xammp or wammp 
+ insert the command sql in xammp or wammp in database combat
  
  CREATE TABLE IF NOT EXISTS `Etudiants` (
   `id` smallint(5) unsigned NOT NULL AUTO_INCREMENT,
