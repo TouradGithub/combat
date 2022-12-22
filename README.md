@@ -1,5 +1,6 @@
-# create database named combat and default user 
+# installation
 
+ create database named combat
  insert the command sql in xammp or wammp 
  
  CREATE TABLE IF NOT EXISTS `Etudiants` (
